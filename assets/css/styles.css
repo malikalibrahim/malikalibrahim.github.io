@@ -1446,12 +1446,13 @@ img {
 
 .skills--section{
   max-width: 500px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  
 
 }
 .breed{
   width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
